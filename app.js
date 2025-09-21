@@ -22,7 +22,7 @@ function adicionarAmigo() {
     
     input.value = "";
 
-    // atualiza lista
+    // atualiza lsta
     atualizarLista();
 }
 
@@ -49,7 +49,7 @@ function sortearAmigo() {
         return;
     }
 
-    //índice aleatório
+    //índice aleatorio
     let indice = Math.floor(Math.random() * amigos.length);
 
     let sorteado = amigos[indice];
