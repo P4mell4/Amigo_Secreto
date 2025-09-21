@@ -31,3 +31,5 @@ Quando o usuário clica em "Sortear amigo":
 ### Sorteando Amigas 🎲
 ![demonstracao_amigo_secreto_jogo mkv](https://github.com/user-attachments/assets/0a982f81-a212-4a03-822d-374052589008)
 
+## Agradecimentos 💐
+Deixo aqui meus sinceros agradecimentos ao instrutores @guilhermeonrails
