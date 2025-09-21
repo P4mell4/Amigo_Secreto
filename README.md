@@ -32,4 +32,4 @@ Quando o usuário clica em "Sortear amigo":
 ![demonstracao_amigo_secreto_jogo mkv](https://github.com/user-attachments/assets/0a982f81-a212-4a03-822d-374052589008)
 
 ## Agradecimentos 💐
-Deixo aqui meus sinceros agradecimentos ao instrutores @guilhermeonrails
+Deixo aqui meus sinceros agradecimentos ao instrutores da Alura @guilhermeonrails e @MonicaHillman que em parceria com a Oracle ministraram cursos de Lógica de Programação que me auxiliaram na execução desse projeto.
